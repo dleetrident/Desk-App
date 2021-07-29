@@ -100,3 +100,7 @@ form button {
   cursor: pointer;
   outline: none;
 }
+
+.inline{
+  display: inline-block;
+}
